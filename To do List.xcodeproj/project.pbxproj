@@ -12,6 +12,7 @@
 		B5FF0D18233862E8003ADBA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5FF0D16233862E8003ADBA3 /* Main.storyboard */; };
 		B5FF0D1A233862EC003ADBA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5FF0D19233862EC003ADBA3 /* Assets.xcassets */; };
 		B5FF0D1D233862EC003ADBA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5FF0D1B233862EC003ADBA3 /* LaunchScreen.storyboard */; };
+		B5FF0D2523386EA7003ADBA3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF0D2423386EA7003ADBA3 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B5FF0D19233862EC003ADBA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5FF0D1C233862EC003ADBA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5FF0D1E233862EC003ADBA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5FF0D2423386EA7003ADBA3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B5FF0D12233862E8003ADBA3 /* AppDelegate.swift */,
 				B5FF0D14233862E8003ADBA3 /* ViewController.swift */,
 				B5FF0D16233862E8003ADBA3 /* Main.storyboard */,
+				B5FF0D2423386EA7003ADBA3 /* DetailViewController.swift */,
 				B5FF0D19233862EC003ADBA3 /* Assets.xcassets */,
 				B5FF0D1B233862EC003ADBA3 /* LaunchScreen.storyboard */,
 				B5FF0D1E233862EC003ADBA3 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5FF0D2523386EA7003ADBA3 /* DetailViewController.swift in Sources */,
 				B5FF0D15233862E8003ADBA3 /* ViewController.swift in Sources */,
 				B5FF0D13233862E8003ADBA3 /* AppDelegate.swift in Sources */,
 			);
